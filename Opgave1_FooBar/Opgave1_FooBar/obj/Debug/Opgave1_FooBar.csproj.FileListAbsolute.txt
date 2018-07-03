@@ -1,0 +1,7 @@
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\bin\Debug\Opgave1_FooBar.exe.config
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\bin\Debug\Opgave1_FooBar.exe
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\bin\Debug\Opgave1_FooBar.pdb
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\obj\Debug\Opgave1_FooBar.csprojAssemblyReference.cache
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\obj\Debug\Opgave1_FooBar.csproj.CoreCompileInputs.cache
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\obj\Debug\Opgave1_FooBar.exe
+c:\users\bjp\source\repos\Opgave1_FooBar\Opgave1_FooBar\obj\Debug\Opgave1_FooBar.pdb
