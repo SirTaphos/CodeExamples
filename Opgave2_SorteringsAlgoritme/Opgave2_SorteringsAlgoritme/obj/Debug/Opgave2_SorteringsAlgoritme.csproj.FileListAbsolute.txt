@@ -1,0 +1,7 @@
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\bin\Debug\Opgave2_SorteringsAlgoritme.exe.config
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\bin\Debug\Opgave2_SorteringsAlgoritme.exe
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\bin\Debug\Opgave2_SorteringsAlgoritme.pdb
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\obj\Debug\Opgave2_SorteringsAlgoritme.csprojAssemblyReference.cache
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\obj\Debug\Opgave2_SorteringsAlgoritme.csproj.CoreCompileInputs.cache
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\obj\Debug\Opgave2_SorteringsAlgoritme.exe
+C:\Users\bjp\source\repos\Opgave2_SorteringsAlgoritme\Opgave2_SorteringsAlgoritme\obj\Debug\Opgave2_SorteringsAlgoritme.pdb
