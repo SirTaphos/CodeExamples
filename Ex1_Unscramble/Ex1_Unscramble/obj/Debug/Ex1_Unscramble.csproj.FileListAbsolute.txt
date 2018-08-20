@@ -1,0 +1,7 @@
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\bin\Debug\Ex1_Unscramble.exe.config
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\bin\Debug\Ex1_Unscramble.exe
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\bin\Debug\Ex1_Unscramble.pdb
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\obj\Debug\Ex1_Unscramble.csprojAssemblyReference.cache
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\obj\Debug\Ex1_Unscramble.csproj.CoreCompileInputs.cache
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\obj\Debug\Ex1_Unscramble.exe
+c:\users\bjp\source\repos\Ex1_Unscramble\Ex1_Unscramble\obj\Debug\Ex1_Unscramble.pdb
